@@ -1,4 +1,4 @@
-<img src="./demonstracao.png"/>
+<img src="./frontend/demonstracao.png"/>
 
 
 # Getting Started with Create React App
